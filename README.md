@@ -1,2 +1,2 @@
 # InverseKinematics
-Inverse Kinematics for the quadruped robot.
+Single leg cartesian (x,y,z) inverse kinematics model for the quadruped robot.
